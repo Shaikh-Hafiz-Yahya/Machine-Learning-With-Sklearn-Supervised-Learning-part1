@@ -1,0 +1,5 @@
+,Fruits,Dairy,PersonAge,Consume%
+0,Banana,Milk,2-80,99.9
+1,Orange,Yogurt,2-80,99.0
+2,Mango,Butter,2-50,95.0
+3,Guava,Cheese,Age50Above QuantityLessConsume,90.0
